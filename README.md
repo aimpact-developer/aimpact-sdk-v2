@@ -391,4 +391,4 @@ if (apiKeyInfo.status === 'ok' && apiKeyInfo.data) {
 
 ---
 
-For detailed API documentation and examples, visit our [documentation](https://docs.aimpact.ai).
+For detailed API documentation and examples, visit our [documentation](https://aimpact1.my.canva.site/).
